@@ -12,3 +12,7 @@ console.time("fiveSecond");
 setTimeout(simpleTimeout, 5000, "fiveSecond");
 console.time("50MilliSecond");
 setTimeout(simpleTimeout, 50, "50MilliSecond");
+
+function myFunc() {
+    
+}
